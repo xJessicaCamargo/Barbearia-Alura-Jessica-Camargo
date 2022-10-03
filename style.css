@@ -129,6 +129,7 @@ td, th {
     border: 1px solid #000000;
     padding: 8px 15px;
 }
+
 /* css da página inicial */
 .banner {
     width:100%;
@@ -160,6 +161,7 @@ td, th {
     float: left;
     margin: 0 20px 20px 0;
 }
+
 /* css do mapa */
 .mapa {
     padding: 3em 0;
@@ -176,7 +178,7 @@ td, th {
 
 .beneficios {
     padding: 3em 0;
-    background: #888888;
+    background: linear-gradient(#FEFEFE, #888888);
 	}
 
 .conteudo-beneficios {
